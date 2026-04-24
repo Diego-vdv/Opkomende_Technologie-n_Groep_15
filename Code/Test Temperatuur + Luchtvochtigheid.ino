@@ -1,6 +1,7 @@
 #include <DHT.h>
 
-const int DHT_PIN = A4;
+const int DHT_PIN = A3;
+//moet aangesloten worden op 5V werkt lik niet op 3.3V
 const int DHT_TYPE = DHT11;
 
 DHT dht(DHT_PIN, DHT_TYPE);
