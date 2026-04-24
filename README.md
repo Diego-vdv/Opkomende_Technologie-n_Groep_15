@@ -37,7 +37,7 @@ Het doel is om gebruikers te helpen hun planten beter te verzorgen door direct i
 ## Architectuur
 
 <p align=center>  
-  <img src="fotos/Opkomende Technologieen - Aeon en Diego - Frame 12.pdf") alt=testlocatie width=10% />
+  <img src="fotos/Opkomende Technologieen - Aeon en Diego - Frame 12.jpg") alt=testlocatie width=10% />
 </p> 
  
 
