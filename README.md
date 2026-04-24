@@ -19,15 +19,15 @@ Het doel is om gebruikers te helpen hun planten beter te verzorgen door direct i
 * Live data op display (LCD/OLED)
 * Waarschuwingen bij slechte condities
 
-## Hardware
+## BOM
 
-| Component        | Beschrijving                       |
-| ---------------- | ---------------------------------- |
-| Arduino Uno/Nano | Microcontroller                    |
-| Bodemvochtsensor | Meet waterniveau in de grond       |
-| DHT11/DHT22      | Temperatuur- en vochtigheidssensor |
-| LDR              | Lichtsensor                        |
-| LCD/OLED         | Display voor output                |
+| Component        | Beschrijving                       | Link|
+| ---------------- | ---------------------------------- |...|
+| Arduino Nano | Microcontroller                    |...|
+| Bodemvochtsensor | Meet waterniveau in de grond       |[Amazon][https://www.amazon.nl/-/en/APKLVSR-Moisture-Capacitive-Hygrometer-Corrosion/dp/B0CQNF7S7L/ref=sr_1_4?s=garden&sr=1-4]|
+| DHT11    | Temperatuur- en vochtigheidssensor |...|
+| LDR              | Lichtsensor                        |...|
+| LCD/OLED         | Display voor output                |...|
 
 
 ## Software
