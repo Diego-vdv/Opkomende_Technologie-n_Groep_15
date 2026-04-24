@@ -1,4 +1,4 @@
-# Opkomende_Technologie-n_Groep_15
+# Opkomende_Technologieën_Groep_15
 
 
 #  Plant Health Monitor
