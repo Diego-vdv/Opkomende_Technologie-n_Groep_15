@@ -34,7 +34,7 @@ Het doel is om gebruikers te helpen hun planten beter te verzorgen door direct i
 
 * Arduino IDE
 
-## 🏗️ Architectuur
+## Architectuur
 
 (hier foto toeveogen)
 
