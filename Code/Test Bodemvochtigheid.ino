@@ -1,5 +1,8 @@
+//CONFIG
+
 const int SOIL_PIN = A0;
 
+// SETUP
 void setup() {
   Serial.begin(115200);
   pinMode(SOIL_PIN, INPUT);
@@ -10,14 +13,15 @@ void setup() {
   Serial.println();
 }
 
+// LOOP
 void loop() {
   int soilValue = analogRead(SOIL_PIN);
 
-  Serial.print("Bodemwaarde: ");
-  Serial.println(soilValue);
+  Serial.print("Bodemwaarde: "); Serial.println(soilValue);
 
   delay(1000);
 }
+
 // standaard waardes = 540
 // met vinger test = 277
 
